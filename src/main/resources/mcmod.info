@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "MyFirstMod",
+    "name": "My First Mod",
+    "description": "My very first minecraft mod! If you're seeing this, I guess it works, and I forgot to edit this :)",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "William Bittner"
+    ],
+    "credits": "Thanks to Pahimar for running an incredible tutorial!",
+    "logoFile": "/assets/myfirstmod/textures/logo.png",
+    "screenshots": [
+    ],
+    "parent":"",
+    "dependencies": [
+    ]
+  }
+]
